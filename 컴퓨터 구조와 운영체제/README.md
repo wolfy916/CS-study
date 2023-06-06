@@ -1,5 +1,7 @@
 # 컴퓨터 구조와 운영체제
 
+[상위로 이동](https://github.com/wolfy916/CS-study/tree/wolfy#computer-science)
+
 ## [01. 컴퓨터의 구조](https://github.com/wolfy916/CS-study/blob/wolfy/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%A1%B0/01.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md#01-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B5%AC%EC%A1%B0)
 
 ## [02. 데이터](https://github.com/wolfy916/CS-study/tree/wolfy/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
